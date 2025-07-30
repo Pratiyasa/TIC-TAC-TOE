@@ -38,6 +38,6 @@ tic-tac-toe/
 
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone https://github.com/Pratiyasa/TIC-TAC-TOE.git
 
 
